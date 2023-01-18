@@ -1,5 +1,6 @@
 # hg2git Script :corn:
-Gently wraps [fast-export by /frej](https://github.com/frej/fast-export) with a python script for a friendly hg to git experience
+Gently wraps [fast-export by /frej](https://github.com/frej/fast-export) with a python script for a friendly hg to git experience.
+
 Bulk convert a set of mercurial hg repositories to git with history and push them to some remote automatically if desired :rocket:
 
 ---
@@ -30,3 +31,6 @@ Pull it into a dir with permissions, you may need to chown the dir
 3. Modify the script with your repo directory, user details and authors list accordingly
 
 4. Convert! Call the script and *awaaaaaay we go*
+
+### Disclaimer
+Always backup first.
